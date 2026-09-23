@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3032eb62-3db6-4f80-a37b-51cb72d2ad18" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Projects/LinkedIn-Publication/code/what-new-java-21" value="3JRDhLndlj5QEzumORWq1NW8NQN" />
+      <entry key="_C:/Projects/LinkedIn-Publication/what-new-java-21" value="3FRoxVq84aH1I3eCs0cgtrhkhwT" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000012654412015" />
+      <entry key="MS500" value="1.1048210230551163" />
+      <entry key="S2" value="1.5689997800646378" />
+      <entry key="S5" value="1.7980770817271041" />
+      <entry key="S10" value="1.8933516002823882" />
+      <entry key="S30" value="1.9631075129745192" />
+      <entry key="S60" value="1.9837204092297926" />
+      <entry key="M2" value="2.0889028422831366" />
+      <entry key="M5" value="2.9774917839488118" />
+      <entry key="M10" value="4.179766555566115" />
+      <entry key="M15" value="4.863814679479749" />
+      <entry key="M30" value="5.7762275174028055" />
+      <entry key="H1" value="6.342855711658318" />
+      <entry key="H2" value="6.6591994142140924" />
+      <entry key="H4" value="6.82662694163776" />
+      <entry key="D1" value="17.624288663780003" />
+      <entry key="W1" value="88.22021046003016" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.3033748039189686E-94" />
+      <entry key="S5" value="6.265160353167162E-38" />
+      <entry key="S10" value="4.529641993165152E-19" />
+      <entry key="S30" value="1.864909273275516E-6" />
+      <entry key="S60" value="0.0027152275494762685" />
+      <entry key="M2" value="0.10405236067148438" />
+      <entry key="M5" value="0.9288976220919658" />
+      <entry key="M10" value="1.9274597641355298" />
+      <entry key="M15" value="2.4585015657154226" />
+      <entry key="M30" value="3.1358987921297796" />
+      <entry key="H1" value="3.5416872861169835" />
+      <entry key="H2" value="3.7638724806242876" />
+      <entry key="H4" value="3.880194815173152" />
+      <entry key="D1" value="6.8368110115822205" />
+      <entry key="W1" value="25.879631304952472" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265994666850534" />
+      <entry key="MS500" value="1.0875302804895588" />
+      <entry key="S2" value="1.562244399188391" />
+      <entry key="S5" value="1.7948954896762186" />
+      <entry key="S10" value="1.891661075467355" />
+      <entry key="S30" value="1.9625214195402227" />
+      <entry key="S60" value="1.9860562304193192" />
+      <entry key="M2" value="2.1911817755618936" />
+      <entry key="M5" value="3.9004074524571712" />
+      <entry key="M10" value="6.100999655398276" />
+      <entry key="M15" value="7.3170102818840705" />
+      <entry key="M30" value="8.90873373239206" />
+      <entry key="H1" value="9.88262446675851" />
+      <entry key="H2" value="10.422051681111185" />
+      <entry key="H4" value="10.706295677200892" />
+      <entry key="D1" value="24.46089851778167" />
+      <entry key="W1" value="114.09970219057806" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3FRoxVq84aH1I3eCs0cgtrhkhwT" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RecordPattern.executor": "Run",
+    "Application.StringTemplates.executor": "Run",
+    "Application.SwitchPatternMatching.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projects/LinkedIn-Publication/code/what-new-java-21",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SwitchPatternMatching">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="b358bcb2-65ab-4977-80a5-36e5c27d1873" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esombugma.java.RecordPattern" />
+      <module name="what-new-java-21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esombugma.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTemplates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esombugma.java.StringTemplates" />
+      <module name="what-new-java-21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esombugma.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchPatternMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.esombugma.java.SwitchPatternMatching" />
+      <module name="what-new-java-21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.esombugma.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwitchPatternMatching" />
+        <item itemvalue="Application.RecordPattern" />
+        <item itemvalue="Application.StringTemplates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3032eb62-3db6-4f80-a37b-51cb72d2ad18" name="Changes" comment="" />
+      <created>1782047495907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782047495907</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
